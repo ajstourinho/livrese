@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542704403992",
+    "firebase_url": "https://scambiareal.firebaseio.com",
+    "project_id": "scambiareal",
+    "storage_bucket": "scambiareal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542704403992:android:50d3ccfde4bf6d86b9a56d",
+        "android_client_info": {
+          "package_name": "com.example.scambiareal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542704403992-qbf7krlglfgbdu7j4isq878h1d74mt3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scambiareal",
+            "certificate_hash": "4c03ed49d3e1a3857836efdd1da27d34dc8cc9c3"
+          }
+        },
+        {
+          "client_id": "542704403992-3368o4v6mfdf5bd12nudgpffj6has4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1Ej1DyuluGZM7IhZb3LJAhT6pQhKLtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542704403992-3368o4v6mfdf5bd12nudgpffj6has4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

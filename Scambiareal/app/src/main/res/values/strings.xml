@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Scambiareal</string>
+    <string name="title_activity_meus_anuncios">Meus anúncios</string>
+
+    <string-array name="estados">
+        <item>São Paulo</item>
+        <item>Brasília</item>
+        <item>Porto Alegre</item>
+        <item>Rio de Janeiro</item>
+        <item>Belo Horizonte</item>
+        <item>Salvador</item>
+        <item>Fortaleza</item>
+        <item>Olinda</item>
+        <item>Florianópolis</item>
+        <item>Vitória</item>
+        <item>Manaus</item>
+        <item>Belém</item>
+
+    </string-array>
+
+    <string-array name="categorias">
+        <item>Automóvel</item>
+        <item>Eletrônicos</item>
+        <item>Moda</item>
+        <item>Esportes</item>
+        <item>Música</item>
+        <item>Infantil</item>
+        <item>Agro</item>
+        <item>Jogos de Tabuleiro</item>
+        <item>Leitura</item>
+    </string-array>
+
+</resources>
